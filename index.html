@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <main class="shelf">
   {% for book in site.data.books  %}
   <article class="book">
