@@ -8,7 +8,8 @@ title: کتابخانه باشگاه کوهنوردی شقایق
 baseurl: ""
 url: "http://shaghayeghclub1992.com"
 
- Collections
+
+Collections
 collections:
   books:
     output: false
