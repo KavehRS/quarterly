@@ -1,17 +1,17 @@
 # Site settings
 title: کتابخانه باشگاه کوهنوردی شقایق
-#email: 121212
+#email: shaghayeghclub1992@gmail.com
 #description: >
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: ""
-url: "http://example.com"
+url: "http://shaghayeghclub1992.com"
 
-# Collections
-#collections:
-#  books:
-#    output: false
+ Collections
+collections:
+  books:
+    output: false
 
 sass:
   style: compressed
