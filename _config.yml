@@ -16,3 +16,29 @@ title: کتابخانه باشگاه کوهنوردی شقایق
 
 sass:
   style: compressed
+
+
+
+# Tracker
+analytics: G-X4V1FLGZMH
+
+
+#collection
+#collections:
+ # projects:
+  #  output: true
+   # permalink: /projects/:path/
+
+
+
+#include:
+ # - _pages
+
+
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
